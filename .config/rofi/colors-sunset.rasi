@@ -1,0 +1,14 @@
+* {
+    background-darker: #1a1b26;
+    backgrounds: #1E2127;
+    selection: #db1616;
+    foreground: #a9b1d6;
+    comment: #6272a4;
+    cyan: #449dab;
+    green: #9ece6a;
+    orange: #ffb86c;
+    pink: #ff79c6;
+    purple: #ad8ee6;
+    red: #f7768e;
+    yellow: #e0af68;
+}
