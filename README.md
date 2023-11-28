@@ -1,5 +1,5 @@
 # Dotfiles
-Visit my Website(https://www.madz258.xyz)
+<a href='https://www.madz258.xyz'> Visit My Website! </a>
 
 
 Hi these are the configs for my Gnome and Hyprland Desktops
