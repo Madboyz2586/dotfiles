@@ -14,6 +14,7 @@ I am currently running GNOME on arcolinux but are making plans to try out Hyprla
 ![Alt text](images/image-4.png)
 
 My extensions for GNOME are
+<br>
 <a href='https://extensions.gnome.org/extension/4481/forge/'> Forge </a>
 <br>
 <a href='https://extensions.gnome.org/extension/3628/arcmenu/'> ArcMenu </a>
