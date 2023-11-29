@@ -29,3 +29,5 @@ My extensions for GNOME are
 <br>
 <a href='https://extensions.gnome.org/extension/5362/wireguard-vpn-extension/'> Wireguard VPN Extension </a>
 <br>
+
+# Hyprland (WIP)
