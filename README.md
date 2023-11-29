@@ -2,7 +2,7 @@
 <a href='https://www.madz258.xyz'> Visit My Website! </a>
 
 
-Hi these are the configs for my Gnome and Hyprland Desktops
+Hi these are the configs for my Desktops, Window Managers and servers
 
 # GNOME
 I am currently running GNOME on arcolinux but are making plans to try out Hyprland
