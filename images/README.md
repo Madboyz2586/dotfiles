@@ -7,3 +7,4 @@
 ![Alt text](image-4.png)
 
 # Hyprland
+![Alt text](image-5.png)
