@@ -31,4 +31,4 @@ My extensions for GNOME are
 <br>
 
 # Hyprland (WIP)
-![Alt text](images/image-5.png)
+##![Alt text](images/image-5.png)
